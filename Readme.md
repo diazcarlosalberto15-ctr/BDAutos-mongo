@@ -26,10 +26,10 @@ Incluye la implementación de **25 consultas analíticas** construidas con el **
 ## 🛠️ Estructura del Repositorio
 
 ```text
-BDAutos-MongoDB/
+BDAutos-Mongo/
 ├── scripts/
-│   ├── 01_seed.js          # Inserción de datos iniciales
-│   └── 02_queries.js       # Las 25 consultas de agregación
+│   ├── 01_seed.js
+│   └── 02_queries.js
 ├── docs/
 │   └── Proyecto_1a_Evaluacion_BDAutos.pdf
 └── README.md
