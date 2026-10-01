@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 Este repositorio contiene la solución completa para la modelación y consulta analítica de la base de datos NoSQL **BDAutos** en MongoDB.
 
 Se aplican los siguientes patrones de diseño:
@@ -23,7 +23,7 @@ Incluye la implementación de **25 consultas analíticas** construidas con el **
 
 ---
 
-## 🛠️ Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 BDAutos-Mongo/
